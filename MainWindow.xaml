@@ -180,7 +180,7 @@
                             Style="{StaticResource MaterialDesignFloatingActionDarkButton}" 
                             Margin="5" BorderThickness="1" 
                             BorderBrush="{StaticResource PrimaryHueMidBrush}">
-                        <materialDesign:PackIcon Kind="Power" MinHeight="30" MinWidth="30" FontFamily="Oswald"></materialDesign:PackIcon>
+                        <materialDesign:PackIcon Kind= "Power" MinHeight="30" MinWidth="30" FontFamily="Oswald"></materialDesign:PackIcon>
                     </Button>
                     <Button Grid.Column="1" Grid.Row="5" 
                             Style="{StaticResource MaterialDesignFloatingActionDarkButton}" 
